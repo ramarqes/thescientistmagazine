@@ -18,8 +18,25 @@ div {
     box-shadow: 0px 0px 30px #dfdfdf;;
     border-radius: 7px;
     margin: 60px 10px 10px 10px;
+    display: inline-flex;
+    width: 450px;
+    height: 200px;
 }
 div img {
     border-radius: 7px 0px 0px 7px;
 }
 
+nav {
+    padding: 0px 20px 0px 25px;
+    text-align: justify;
+}
+
+.tag {
+    text-align: left;
+    display: inline-flex;
+    padding: 0px;
+    font-size: 7x;
+}
+ul{
+
+}
