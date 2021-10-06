@@ -1,19 +1,30 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Product Sans', sans-serif;
-    color: #414141;
+    color: #616161;
     font-size: 20px;
     margin-top: 15px;
     margin-bottom: 0px;
 }
 
+a{
+    text-decoration: none;
+}
 p {
     font-family: 'Roboto', sans-serif;
-    color: #414141;
+    color: #6b6b6b;
     font-size: 15px;
     margin-top: 3px;
+    margin-bottom: 10px;
 }
 
+.views{
+    text-align: center;
+    position: absolute;
+    width: 150px;
+    font-size: 12px;
+    color: #f80000;
+}
 .feed{
     background-color: #ffffff;
     box-shadow: 0px 0px 30px #dfdfdf;;
@@ -34,17 +45,33 @@ nav {
 
 .tag {
     font-family: 'Roboto', sans-serif;
-    color: #35aace;
     text-align: left;
     display: inline-flex;
     padding: 0px;
     font-size: 12px;
 }
 
+
+
+.conectividade, .cidades, .emprego, .mulheres{
+    font-family: 'Roboto',  sans-serif;
+    display: inline;
+    font-size: 12px;   
+    padding: 0px;
+}
+.conectividade a, .cidades a, .emprego a, .mulheres a{
+    color: #0ba2dd;
+    background: #ffffff;
+}
+.conectividade a:hover, .cidades a:hover, .emprego a:hover, .mulheres a:hover{
+    color: #616161;
+}
 #profile{
     margin-right: 10px;
     border-radius: 0%;
     border-radius: 50px;
+}
+.profile{
 }
 
 .name{
@@ -52,12 +79,24 @@ nav {
     display: inline; 
     font-weight: 700;
     position: absolute;
-    margin:  7px 0px 0px 0px;
-    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: 18px;
 }
 .cargo{
-    margin:  7px 0px 0px 0px;
+    font-family: 'Roboto', sans-serif;
     display: inline;
     color: rgb(0, 204, 136);
     font-size: 12px;
 }
+.time{
+    font-family: 'Roboto', sans-serif;
+    color: #ff0040;
+    font-size: 12px;
+}
+
+
+
+
