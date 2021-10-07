@@ -63,19 +63,19 @@ nav {
     text-align: justify;
 }
 
-.destinos, .viajens, .emprego, .ferias, .tecnologia, .mulher, .ciencia, .pesquisaCientifica, .cidades, .conectividade, .internet, .natureza, .saude{
+.destinos, .viajens, .emprego, .ferias, .tecnologia, .mulher, .ciencia, .pesquisaCientifica, .cidades, .conectividade, .internet, .natureza, .saude, .games, .jogos, .console, .laPalma, .vulcao, .news, .mundo, .ecologia, .xcloud, .twitch, .inspiration4, .spacex, .crew{
     font-family: 'Roboto', sans-serif;
     display: inline;
     font-size: 12px;   
     padding: 0px;
     margin: 0px;
 }
-.destinos a, .viajens a, .emprego a, .ferias a, .tecnologia a, .mulher a, .ciencia a, .pesquisaCientifica a, .cidades a, .conectividade a, .internet a, .natureza a, .saude a{
+.destinos a, .viajens a, .emprego a, .ferias a, .tecnologia a, .mulher a, .ciencia a, .pesquisaCientifica a, .cidades a, .conectividade a, .internet a, .natureza a, .saude a, .games a, .jogos a, .console a, .laPalma a, .vulcao a, .news a, .mundo a, .ecologia a, .xcloud a, .twitch a, .inspiration4 a, .spacex a, .crew a{
     color: #0ba2dd;
     background: #ffffff;
     text-decoration: none;
 }
-.destinos a:hover, .viajens a:hover, .ferias a:hover, .emprego a:hover, .tecnologia a:hover, .mulher a:hover, .ciencia a:hover, .pesquisaCientifica a:hover, .cidades a:hover, .conectividade a:hover, .internet a:hover, .natureza a:hover, .saude a:hover{
+.destinos a:hover, .viajens a:hover, .ferias a:hover, .emprego a:hover, .tecnologia a:hover, .mulher a:hover, .ciencia a:hover, .pesquisaCientifica a:hover, .cidades a:hover, .conectividade a:hover, .internet a:hover, .natureza a:hover, .saude a:hover, .games a:hover, .jogos a:hover, .console a:hover, .laPalma a:hover, .vulcao a:hover, .news a:hover, .mundo a:hover, .ecologia a:hover, .xcloud a:hover, .twitch a:hover, .inspiration4 a:hover, .spacex a:hover, .crew a:hover{
     color: #616161;
 }
 #profile{
@@ -112,8 +112,8 @@ margin-top: 11px;
 }
 .time{
     font-family: 'Roboto', sans-serif;
-    color: #646464;
-    font-size: 11px;
+    color: #ff0040;
+    font-size: 12px;
     position: absolute;
     right: 0px;
     bottom: 2px;
