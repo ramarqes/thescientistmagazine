@@ -38,7 +38,8 @@ p {
 }
 
 .feed div img:hover {
-  opacity: 80%;
+  -webkit-filter: brightness(.5);
+  filter: brightness(.5);
   transition: 0.5s ease;
 }
 
